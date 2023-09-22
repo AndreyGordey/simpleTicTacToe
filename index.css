@@ -1,0 +1,26 @@
+body {
+    background: slategray;
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  #game {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .choice {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
